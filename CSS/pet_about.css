@@ -1,0 +1,49 @@
+@charset "UTF-8";
+
+body{
+	background: #000;
+}
+#reg{
+	font-size: 28px;
+	color: #92090B;
+}
+.big_one{
+	width: 80%;
+	height: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-width: 10px;
+	border-radius: 8px;
+	border-style: solid;
+	border-color:#02479A;
+	color: #B7B2B2;
+	font-size: 17.5px;
+	padding-left: 24px;
+}
+.inside{
+	border-width:4px;
+	border-color:aliceblue;
+	width:60%;
+	height:80%;
+	margin-left: auto;
+	margin-right:auto;
+}
+.row{
+	width: 85%;
+	border-radius: 8px;
+	border-width: 8px;
+	border-color: #BC090C;
+	padding: 5%;
+}
+hr{
+	width: 80%;
+	float:left;
+}
+.question{
+	height: 50px;
+	width: 30%;
+}
+#map{
+	width: 50%;
+	height: 50%;
+}
